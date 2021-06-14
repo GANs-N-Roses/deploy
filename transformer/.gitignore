@@ -1,0 +1,4 @@
+src/__pycache__/*
+src/.ipynb_checkpoints/*
+src/models/*
+src/final_midis/*

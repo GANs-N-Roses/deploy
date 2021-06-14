@@ -1,0 +1,16 @@
+version: '2'
+services:
+    transformer:
+        build: ./transformer
+        ports:
+            - '8001:8001'
+        volumes:
+            - ./transformer/src:/music
+    pipe:
+        build: ./visualization
+        ports:
+            - '8000:8000'
+        environment:
+            - PORT=8000
+        volumes:
+            - ./visualization:/visualization

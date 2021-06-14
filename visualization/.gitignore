@@ -1,0 +1,3 @@
+*.sf2
+pipelines/output_files/*
+.vscode/*

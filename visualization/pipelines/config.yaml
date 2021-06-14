@@ -1,0 +1,37 @@
+# common input dir for models
+input_dir: models
+
+# IMAGE
+input_image_model: va_image_model.h5
+img_size: 512
+channels: 3
+image_dir_path: input_files
+image_path: image.jpg
+emotions:
+  - other
+  - happiness # primer cuadrante
+  - fear      # segundo cuadrante
+  - sadness   # tercer cuadrante
+  - love      # cuarto cuadrante
+
+default_preds:
+  happiness: 0.8
+  fear: 0.03
+  sadness: 0.02
+  love: 0.15
+
+# INTERMEDIATE
+knn_model: knn_starting_midis.pkl
+knn_labels: labels_knn_vgmidi1.pkl
+pieces_file: starting_midis.csv
+initial_midi_dir: initial_midis
+
+# MUSIC
+input_music_model: 
+output_dir: output_files
+initial_song: initial.mid
+output_song: output.mid
+
+# TRANSFORMER
+transformer_host: transformer
+transformer_port: 8001

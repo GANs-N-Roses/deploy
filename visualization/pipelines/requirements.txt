@@ -1,0 +1,2 @@
+PyYAML==5.4.1
+tensorflow==2.5.0
