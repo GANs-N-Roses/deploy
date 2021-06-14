@@ -49,5 +49,9 @@ Ferreira, Lucas N. and Whitehead, Jim
 Proceedings of the Conference of the International Society for Music Information Retrieval
 ISMIR'19
 
+**WikiArt Emotions: An Annotated Dataset of Emotions Evoked by Art**
+Saif M. Mohammad and Svetlana Kiritchenko
+In Proceedings of the 11th Edition of the Language Resources and Evaluation Conference (LREC-2018), May 2018, Miyazaki, Japan.
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
