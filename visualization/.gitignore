@@ -1,3 +1,4 @@
 *.sf2
 pipelines/output_files/*
+pipelines/__pycache__/*
 .vscode/*
