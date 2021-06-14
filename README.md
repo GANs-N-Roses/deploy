@@ -34,5 +34,20 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
+## References
+
+**Music Transformer: Generating Music with Long-Term Structure**
+Huang, Cheng-Zhi Anna and Vaswani, Ashish and Uszkoreit, Jakob and Shazeer, Noam and Hawthorne, Curtis and Dai, Andrew M and Hoffman, Matthew D and Eck, Douglas,
+arXiv preprint arXiv:1809.04281, 2018
+
+**Studying emotion induced by music through a crowdsourcing game**
+A. Aljanaki, F. Wiering, R. C. Veltkamp. 
+Information Processing & Management, 2015.
+
+**Learning to Generate Music with Sentiment**
+Ferreira, Lucas N. and Whitehead, Jim
+Proceedings of the Conference of the International Society for Music Information Retrieval
+ISMIR'19
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
