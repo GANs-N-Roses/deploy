@@ -4,6 +4,8 @@
 
 # About
 
+[🧾 Medium article](https://medium.com/@atmguille/d1a7cfe8d59a)
+
 This is an artificial intelligence project, with the objective of translating pieces of visual art into music, enabling any person to feel art regardless of their visual impairment.
 
 For this purpose, we have developed a convolutional neural network that extracts the sentiment from a painting [in terms of valence-arousal](https://en.wikipedia.org/wiki/Emotion_classification#Circumplex_model). Then, a MIDI audio file is picked from a dataset labelled by emotion, which combines classical music and songs from videogames. A MusicTransformer produces an entirely new song inspired on the selected track.
